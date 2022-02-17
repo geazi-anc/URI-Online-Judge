@@ -1,0 +1,1 @@
+create table mytable(int serial primary key, num int);
